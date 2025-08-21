@@ -128,7 +128,7 @@ export default function Home() {
               className="inline-flex items-center justify-center rounded-xl border border-emerald-400/30 bg-emerald-400/10 px-4 py-2 text-sm font-semibold text-emerald-200 shadow-sm transition hover:bg-emerald-400/20 hover:shadow
                        disabled:cursor-not-allowed disabled:opacity-50"
             >
-              � Play coin flip
+              🎲 Play coin flip
             </button>
           </div>
 
